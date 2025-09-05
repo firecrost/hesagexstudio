@@ -2,7 +2,7 @@
 
 /*Header*/
 #header {
-    background: url("../../images/header-background.jpg") no-repeat fixed center;
+    background: url("../../images/header-backgroundd.jpg") no-repeat fixed center;
     min-width: 100%;
     min-height: 800px;
     height: 80vh;
@@ -827,4 +827,5 @@
     #faq .content .info .section-description {
         max-width: 100%;
     }
+
 }
